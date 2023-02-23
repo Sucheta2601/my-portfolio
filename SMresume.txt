@@ -1,0 +1,43 @@
+                                            Sucheta Matai
+                                suchetamatai01@gmail.com | 9352185738
+
+       https://github.com/Sucheta2601                     www.linkedin.com/in/sucheta-m
+
+SKILLS
+   ❖     Java
+   ❖     Data structures
+   ❖     Algorithm(basics)
+   ❖     HTML, CSS, JavaScript
+   ❖     VS Code, Git Hub
+
+EDUCATION
+   ❖ XII (RBSE) |Maa Bharti sr. secondary School, Kota                            83%
+
+   ❖ X (CBSE) | Global Public School ,Kota                                         84%
+
+   ❖ Electronics and communication | College of technology and Eng.
+
+
+ACADEMIC PROJECTS
+   ❖ Portfolio website
+  I have developed a professional portfolio website to showcase my skills , and projects in an
+organized manner . It includes a home page, a project, and a contact page. The website is
+designed using web technologies such as HTML, CSS , JavaScript. It helps me increase my
+visibility, opportunities in professional life.
+
+      Guess the number (game)
+It is a mini project. Basically, the player must guess a number between 1 to 20. If your guess
+number is lower than the correct number it will display Too Low! and vice versa
+
+
+HOBBIES
+        Listening podcasts
+         Reading self-improvement books
+         Singing , sketching , trekking.
+
+
+Languages
+        English (proficient)
+        Hindi(native)
+        French (basic)
+

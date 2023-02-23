@@ -1,0 +1,218 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+.section {
+  background-image: url("bg.png.avif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: large;
+     }
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.sidebar {
+  background-color: rgb(190, 181, 171);
+  width: 230px;
+  font-family: "Inter", sans-serif;
+  height: 100vh;
+  transition: tranform 0.3s, ease-in;
+  
+}
+
+.sidebar nav {
+  padding: 45px;
+}
+
+.sidebar nav li {
+  list-style: none;
+  font-size: 30px;
+  padding: 33px 0;
+}
+
+sidebar nav li  a{
+  text-decoration: none;
+  color:  black;
+}
+
+.main {
+  /* background-color: yellow; */
+  width: 90vw;
+}
+
+.container {
+  display: flex;
+}
+
+.infocontainer {
+  /* background-color: rgb(245, 220, 221); */ 
+  height: 56vh;
+  width: 60vw;
+  margin: 144px auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+.devinfo {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  /*this is used to keep i am .... contact me in column*/
+}
+
+.hello {
+  font-size: 65px;
+  font-family: "Inter", sans-serif;
+}
+.name {
+  font-size: 50px;
+  font: bolder;
+}
+
+.about {
+  font-size: 46px;
+}
+.moreabout {
+  font-size: 23px;
+  margin: 23px;
+}
+.button {
+  margin: 9px;
+}
+.button button {
+  padding: 9px 15px;
+  border-color: black;
+  border-width: 1.5px;
+  border-radius: 70mm;
+  background-color: rgb(201, 195, 195);
+  margin: 15px;
+  cursor: pointer;
+}
+
+.button button:hover {
+  /* if i wannt to apply effects only on the hover part of button */
+  background-color: brown;
+  color:white;
+}
+
+
+.contactme{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: xxx-large ;
+}
+.mb{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 3px;
+  padding: 10px;
+  font-size: 33px;
+}
+
+
+#emailHelp{
+font-size: 15px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin: 33px;
+  font-size: 50px;
+  font-weight: 90;
+}
+
+p{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.intro h2{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin: 40 12px;
+}
+
+.intro p{
+  margin-top: 30px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin-bottom: 30px;
+font-size: 20px;
+}
+.skill{
+
+  width: 560px;
+  height: 6px;
+  background-color: blue;
+}
+
+.skillcontainer{
+  align-items: center;
+  padding: 30px;
+}
+.skillitem{
+  display : flex;
+}
+
+.t5{
+  background-color: black;
+}
+.t3{
+  width: 290px;
+ 
+  background-color: black;
+}
+.hamburger{
+  position: absolute;
+  cursor: pointer;
+  top: 10px;
+  left: 10px;
+}
+.cross{
+  margin-left: 170px;
+}
+.ham{
+  background-color: beige;
+}
+
+.sidebargo{
+transform: translate(-433px,0px);
+position: absolute;
+}
+
+.aboutme{
+  margin-top:30px ;
+  margin-left: 160px;
+}
+
+.contactme{
+  margin-left: 30px;
+}
+.hmp{
+  margin-left: 30px;
+}
+
+
+.mywork{
+  margin-top: 30px;
+  margin-left: 90px;
+}
+
+.title{
+font-size: 60px;
+font-family :'Courier New', Courier, monospace;
+
+}
+
+.content{
+  margin: 40px 30px;
+}
+h4{
+  font-size: x-large;
+margin-top: 10px;
+margin-bottom: 10px;}
+
+.descr{
+  margin: 10px 5px ;
+  padding: 9px;
+}
+
+.me{
+  font-size: 30px;
+  font-weight : 600;
+}
