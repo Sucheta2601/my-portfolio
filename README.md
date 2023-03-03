@@ -10,6 +10,11 @@ The website includes a home page with an introduction to who I am, an about page
                         
    This is the HOME PAGE
                         ![178091978-f2209dd6-8231-4ec0-8716-97aade1d64bf jpeg (1280×622) - Google Chrome 03-03-2023 18_47_15](https://user-images.githubusercontent.com/108974791/222730696-403d9dbf-6bb0-433b-9d5d-11bf5891eb6a.png)
+  
+  
+  This is the navigation list
+  ![178091978-f2209dd6-8231-4ec0-8716-97aade1d64bf jpeg (1280×622) - Google Chrome 03-03-2023 19_03_18](https://user-images.githubusercontent.com/108974791/222733412-63ebf776-93d0-4683-85df-879f3c37495a.png)
+
 
 
 This is ABOUT ME
